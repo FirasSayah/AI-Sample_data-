@@ -1,0 +1,4 @@
+CreditScore,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+600,1,42,2,0,1,1,1,180348.88
+608,1,41,1,83807.86,1,0,1,112542.58
+502,1,42,8,159660.8,3,1,0,113931.57
